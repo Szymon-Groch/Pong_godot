@@ -6,9 +6,13 @@ A two-player Pong game created in the Godot 3.33 game engine as part of [udemny 
 Open executable file named "Pong.exe" in build folder
 
 <h2>How to play</h2>
-**Player 1: **
-W - Move Up,
-S - Move Down,
+
+**Player 1:**
+
+W - Move Up  
+S - Move Down  
+
 **Player 2:**
-Arrow Up - Move Up
+
+Arrow Up - Move Up  
 Arrow Down - Move Down
